@@ -1,7 +1,3 @@
-from queue import LifoQueue
-
-# Initializing a stack
-
 def addToQueue(queue, element):
     stack1 = []
     for e in range(len(queue)):
